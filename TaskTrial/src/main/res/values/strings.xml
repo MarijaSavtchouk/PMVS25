@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskTrialFApp</string>
+    <string name="task">Click me!</string>
+</resources>

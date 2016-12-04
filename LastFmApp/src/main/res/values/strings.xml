@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LastFMApp</string>
+    <string name="api_key">99134dfa0204335a5932c23383fb57f3</string>
+    <string name="method_top">artist.gettoptracks</string>
+    <string name="load_artist">Load artist</string>
+    <string name="show_data_in_db">Show all data</string>
+    <string name="show_for_artist">Show for artist</string>
+    <string name="artist_name">Enter artist</string>
+</resources>
